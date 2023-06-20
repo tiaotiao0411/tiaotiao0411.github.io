@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://caozijin.com/tags/20200918.html</loc>
+    <loc>http://caozijin.com/2022/12/12/hello-world/</loc>
     
-    <lastmod>2023-06-13</lastmod>
+    <lastmod>2023-06-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://caozijin.com/2022/12/12/hello-world/</loc>
+    <loc>http://caozijin.com/tags/20200918.html</loc>
     
     <lastmod>2023-06-13</lastmod>
     
@@ -193,7 +193,7 @@
 
   <url>
     <loc>http://caozijin.com/</loc>
-    <lastmod>2023-06-14</lastmod>
+    <lastmod>2023-06-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
