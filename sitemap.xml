@@ -4,7 +4,16 @@
   <url>
     <loc>http://caozijin.com/2022/12/12/hello-world/</loc>
     
-    <lastmod>2023-06-20</lastmod>
+    <lastmod>2023-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://caozijin.com/tags/20170222.html</loc>
+    
+    <lastmod>2023-06-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -193,7 +202,7 @@
 
   <url>
     <loc>http://caozijin.com/</loc>
-    <lastmod>2023-06-20</lastmod>
+    <lastmod>2023-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
